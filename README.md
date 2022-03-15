@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArthurBarreto
 - 👀 I’m interested in java, spring boot, backend development, sql and databases
+- 🌱 Learning about tdd, automated tests, microservices, message queue, cloud
 - 📫 How to reach me arthurbarreto1@gmail.com
 
 <!---
