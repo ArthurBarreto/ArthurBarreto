@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurBarreto
-- 👀 I’m interested in java, spring boot, backend development, sql and databases
-- 🌱 Learning about tdd, automated tests, microservices, message queue, cloud
-- 📫 How to reach me arthurbarreto1@gmail.com
+- 👀 I’m interested in backend development, java, spring boot, sql query optimizations and databases
+- 🌱 Learning about microservices, message queues, automated testes, domain driven desgin, refactoring
+- 📫 How to reach me https://www.linkedin.com/in/arthurbarreto/ or arthurbarreto1@gmail.com
 
 <!---
 ArthurBarreto/ArthurBarreto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
